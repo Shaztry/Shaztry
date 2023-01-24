@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shaztry
 - 👀 I’m interested in .. coding and challenges
-- 🌱 I’m currently learning ... machine learning
+- 🌱 I’m currently learning ... Java and Shell Script
 - 💞️ I’m looking to collaborate on ... java development
 - 📫 How to reach me ... nshastryk@gmail.com
 
