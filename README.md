@@ -77,6 +77,12 @@ Software Quality Engineer with **7+ years of experience** specializing in test a
 - **Overview:** Automated end-to-end performance testing workflows, metric logging, and bottleneck analysis under heavy load.
 - **Impact:** Won **1st Prize in Organizational Hackathon** by slashing manual load execution effort by **95%** (saving 8 hours per cycle).
 
+#### 5. 🛡️ Personal Vault (`ride-docs`) | All-in-One Centralized Document Hub
+- **Stack:** Vanilla HTML5, CSS3 Custom Properties, JavaScript ES6+, GitHub Pages.
+- **Overview:** Standalone single-file web app serving as a secure central archive for identity records (Aadhaar), academic certificates, vehicle documentation, and legal affidavits via Google Drive.
+- **Features:** Instant client-side search, embedded Drive preview engine with zoom, dual Dark/Light themes, and responsive mobile drawers.
+- **Live App:** [shaztry.github.io/ride-docs](https://shaztry.github.io/ride-docs/)
+
 ---
 
 ### 🏆 Achievements & Metrics
