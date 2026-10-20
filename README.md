@@ -2,7 +2,7 @@
 
 ### Senior QA Automation Engineer | AI-Driven Quality Engineering & Performance Architect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nagabhushan_Shastry-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nagabhushan-shastry-k)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nagabhushan_Shastry-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagabhushan-shastry-k-55487517a)
 [![Email](https://img.shields.io/badge/Email-nshastryk@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nshastryk@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Bengaluru,_India-107C41?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 [![Experience](https://img.shields.io/badge/Experience-7%2B_Years-blueviolet?style=for-the-badge)](#)
@@ -110,5 +110,5 @@ Software Quality Engineer with **7+ years of experience** specializing in test a
 ### 📫 Connect With Me
 
 - **Email:** [nshastryk@gmail.com](mailto:nshastryk@gmail.com)
-- **LinkedIn:** [Nagabhushan Shastry K](https://linkedin.com/in/nagabhushan-shastry-k)
+- **LinkedIn:** [Nagabhushan Shastry K](https://www.linkedin.com/in/nagabhushan-shastry-k-55487517a)
 - **Location:** Bengaluru, Karnataka, India
