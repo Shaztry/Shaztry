@@ -2,11 +2,13 @@
 
 ### Senior QA Automation Engineer | AI-Driven Quality Engineering & Performance Architect
 
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=black)](https://shaztry.github.io/nagabhushan-shastry-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nagabhushan_Shastry-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagabhushan-shastry-k-55487517a)
 [![Email](https://img.shields.io/badge/Email-nshastryk@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nshastryk@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Bengaluru,_India-107C41?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 [![Experience](https://img.shields.io/badge/Experience-7%2B_Years-blueviolet?style=for-the-badge)](#)
 
+> 🌐 **Interactive Portfolio & Bio:** [shaztry.github.io/nagabhushan-shastry-portfolio](https://shaztry.github.io/nagabhushan-shastry-portfolio/)
 ---
 
 ### 🔭 Executive Summary
